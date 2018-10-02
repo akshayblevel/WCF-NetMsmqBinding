@@ -1,0 +1,6 @@
+F:\AKKI_DEV\RND\WCFNetMSMQ\WCFNetMSMQClient\bin\Debug\WCFNetMSMQClient.exe.config
+F:\AKKI_DEV\RND\WCFNetMSMQ\WCFNetMSMQClient\bin\Debug\WCFNetMSMQClient.exe
+F:\AKKI_DEV\RND\WCFNetMSMQ\WCFNetMSMQClient\bin\Debug\WCFNetMSMQClient.pdb
+F:\AKKI_DEV\RND\WCFNetMSMQ\WCFNetMSMQClient\obj\Debug\WCFNetMSMQClient.csprojResolveAssemblyReference.cache
+F:\AKKI_DEV\RND\WCFNetMSMQ\WCFNetMSMQClient\obj\Debug\WCFNetMSMQClient.exe
+F:\AKKI_DEV\RND\WCFNetMSMQ\WCFNetMSMQClient\obj\Debug\WCFNetMSMQClient.pdb
